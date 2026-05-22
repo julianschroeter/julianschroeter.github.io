@@ -1,0 +1,16 @@
+# Suggested settings to copy into _config.yml
+
+title: Julian Schröter
+tagline: Professor of Digital Literary Studies at LMU Munich
+description: >-
+  Personal website of Prof. Dr. Julian Schröter, Professor of Digital Literary Studies at LMU Munich.
+url: "https://julianschroeter.github.io"
+
+avatar: /assets/img/avatar.jpg
+
+social:
+  name: Julian Schröter
+  email: j.schroeter@lmu.de
+  links:
+    - https://github.com/julianschroeter
+    - https://fedihum.org/@julianschroeter
