@@ -11,6 +11,8 @@ timezone: Europe/Berlin
 url: "https://julianschroeter.github.io"
 baseurl: ""
 
+theme: jekyll-theme-chirpy
+
 github:
   username: julianschroeter
 
@@ -22,11 +24,6 @@ social:
 
 theme_mode: light
 avatar: "/assets/img/avatar.jpg"
-social_preview_image:
-
-toc: true
-comments:
-  provider:
 
 paginate: 10
 permalink: /posts/:title/
@@ -51,36 +48,8 @@ defaults:
       layout: page
       permalink: /:title/
 
+markdown: kramdown
+highlighter: rouge
+
 kramdown:
-  footnote_backlink: "↩︎"
   syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: highlight
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-
-sass:
-  style: compressed
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  profile: false
-  blanklines: false
-  ignore:
-    envs: [development]
-
-exclude:
-  - "*.gem"
-  - "*.gemspec"
-  - docs
-  - tools
-  - README.md
-  - LICENSE
-  - purgecss.js
-  - "*.config.js"
-  - "package*.json"
