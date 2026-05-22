@@ -1,0 +1,19 @@
+title: Julian Schröter
+tagline: Professor of Digital Literary Studies
+description: >
+  Professor of Digital Literary Studies at LMU Munich.
+  Research in computational literary studies, machine learning,
+  genre theory, and nineteenth-century German literature.
+
+url: "https://julianschroeter.github.io"
+
+theme_mode: light
+
+avatar: /assets/img/avatar.jpg
+
+social:
+  name: Julian Schröter
+  email: j.schroeter@lmu.de
+  links:
+    - https://github.com/julianschroeter
+    - https://orcid.org/
