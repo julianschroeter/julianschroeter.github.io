@@ -5,15 +5,41 @@ description: >
   Research in computational literary studies, machine learning,
   genre theory, and nineteenth-century German literature.
 
+lang: en
+
 url: "https://julianschroeter.github.io"
 
-theme_mode: light
+theme: jekyll-theme-chirpy
+
+timezone: Europe/Berlin
 
 avatar: /assets/img/avatar.jpg
+
+theme_mode: light
 
 social:
   name: Julian Schröter
   email: j.schroeter@lmu.de
   links:
     - https://github.com/julianschroeter
-    - https://orcid.org/
+
+github:
+  username: julianschroeter
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+
+paginate: 10
+
+kramdown:
+  syntax_highlighter: rouge
+
+markdown: kramdown
+highlighter: rouge
