@@ -9,6 +9,10 @@ nav_exclude: true
 
 While canonization has mostly been investigated as a stable result or outcome and with regard to a limited number of canonized works, this project will instead explore canon formation as a dynamic process and place special focus on ‘patterns of canon formation’. The aim of the project is to achieve the following objectives: (a) Detecting relevant patterns of canon formation as part of social practices; (b) establishing a framework for the temporality of such patterns; and (c) connecting the processes of canon formation as social practice with those of retextualization. 
 
+Part of the Cluster of Excellence "Cross-Cultural Philology" (EXC 3061-1)
+
+https://gepris.dfg.de/gepris/projekt/533680712
+
 ## People
 
 Prof. Dr. Julian Schröter (PI)

@@ -45,8 +45,7 @@ Walter-Benjamin Fellowship, DFG (2022–2023): https://gepris.dfg.de/gepris/proj
 - Schröter, Julian & Keli Du: »Validating Topic Modeling as a Method of Analyzing Sujet and Theme.« In: Journal of Computational Literary Studies 1: o.S.
 
 
-- Julian, Schröter; Johannes, Leitgeb & Theresa, Valta: Ein digitales Korpus der Novellen und Journalprosa des 19. Jahrhunderts. University Goettingen.
-
+- Schröter, Julian, Johannes Leitgeb, and Theresa Valta (2023): "Ein digitales Korpus der Novellen und Journalprosa des 19. Jahrhunderts: Herausforderungen der Metadatenerschließung." DARIAH-DE Working Papers 46. https://doi.org/10.47952/gro-publ-131.
 
 - Schröter, Julian: PyNovellaHistory: Python Code for the Project on the History of the German 19th- Century Novella.«.
 
