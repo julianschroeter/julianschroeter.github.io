@@ -11,9 +11,10 @@ I am Professor of Digital Literary Studies at LMU Munich. My main focus is on co
 
 ## Contact
 
-**Prof. Dr. Julian Schröter**  
-Professor of Digital Literary Studies  
-Ludwig-Maximilians-Universität München  
+Prof. Dr. Julian Schröter
+Schellingstr. 3 RG  
+Ludwig-Maximilians-Universität München
+80799 München
 Email: [j.schroeter@lmu.de](mailto:j.schroeter@lmu.de)
 
 ## Current note
