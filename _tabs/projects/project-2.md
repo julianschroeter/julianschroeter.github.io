@@ -2,6 +2,7 @@
 title: Project title 2
 layout: page
 permalink: /projects/project-2/
+nav_exclude: true
 ---
 
 # Project title 2
