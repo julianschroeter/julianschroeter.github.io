@@ -19,9 +19,7 @@ Collaboration with: Andreas Hotho, Albin Zehe (Computer Science, Wuerzburg)
 Student assistants: 
 
 - Martin Ruhl
-
 - Jana Grimm
-
 - Franziska Danner
 
 
