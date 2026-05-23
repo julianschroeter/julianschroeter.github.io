@@ -6,6 +6,6 @@ order: 4
 
 # Projects
 
-- [Project title 1](/projects/project-1/)
-- [Project title 2](/projects/project-2/)
-- [Project title 3](/projects/project-3/)
+- [Canon Formation (EXC)](/projects/project-1/)
+- [Cliffhanger](/projects/project-2/)
+- [(DFG WBS)](/projects/project-3/)
