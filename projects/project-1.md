@@ -11,7 +11,7 @@ While canonization has mostly been investigated as a stable result or outcome an
 
 Part of the Cluster of Excellence "Cross-Cultural Philology" (EXC 3061-1)
 
-https://gepris.dfg.de/gepris/projekt/533680712
+[Link: DFG GEPRIS](https://gepris.dfg.de/gepris/projekt/533680712) – Project Number: 533680712 
 
 ## People
 

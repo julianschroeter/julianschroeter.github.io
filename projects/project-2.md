@@ -31,4 +31,5 @@ Vogel-Stiftung Würzbug (2023–2025)
 
 ## Publications / Outputs
 
-Schröter, J. (2024). Abstract (short proposal): Der Cliffhanger im seriellen Spannungserzählen. Zu einem repräsentativen Korpus populären Erzählens im 19. Jahrhundert Julian Schröter. Zenodo. https://doi.org/10.5281/zenodo.10789497.
+- Schröter, J. (2024). Abstract (short proposal): Der Cliffhanger im seriellen Spannungserzählen. Zu einem repräsentativen Korpus populären Erzählens im 19. Jahrhundert Julian Schröter. Zenodo. [DOI](https://doi.org/10.5281/zenodo.10789497)
+- Julian Schröter and Martin Ruhl (2026): “Zwischen Journal und Buch: Entwurf eines Mixed-Method-Designs für Fassungsvergleiche am Beispiel von Erzähltexten des 19. Jahrhunderts.” In Elisa Ronzheimer and Sarah Nienhaus (eds.): *Editio – Internationales Jahrbuch für Editionswissenschaft*. Beiheft. De Gruyter, 71–93.
