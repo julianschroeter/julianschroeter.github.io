@@ -5,8 +5,6 @@ icon: fas fa-chalkboard-teacher
 order: 5
 ---
 
-# Teaching
-
 Winter 2025/26
 (München)	    
 -  Einführung in die Digital Humanities (Vorlesung im B.A. Digital Humanities, 2 SWS, zusammen mit Dr. Markus Frank, Anrechnung 1 SWS).
