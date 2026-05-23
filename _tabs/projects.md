@@ -8,4 +8,5 @@ order: 4
 
 - [Canon Formation (EXC)](/projects/project-1/)
 - [Cliffhanger](/projects/project-2/)
-- [(DFG WBS)](/projects/project-3/)
+- [Unstructered Genres(DFG WBS)](/projects/project-3/)
+- [Habilitation: Quantitative Gattungsgeschichte](/projects/project-4/)
