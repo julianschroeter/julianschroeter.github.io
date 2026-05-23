@@ -7,6 +7,7 @@ nav_exclude: true
 
 # A Mixed Methods Design for Computational Genre Stylistics and Unstructured Genres. Towards a Functional History of 19th Century German Novellas.
 
+2022–2023
 
 German title: »Ein Mixed-Methods-Programm für die Analyse schwach strukturierter Gattungen. Ästhetische und soziale Funktionen der Erzählungen und Novellen im 19. Jahrhundert.«
 

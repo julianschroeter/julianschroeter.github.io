@@ -7,6 +7,7 @@ nav_exclude: true
 
 # Der Cliffhanger in serieller Journalprosa. Zu einem repräsentativen Korpus populären Erzählens im 19. Jahrhundert
 
+2023–2025 
 Construction and partial annotation of a corpus serially published Journal prosa fiction of 19th-century literature, 
 
 
@@ -25,7 +26,7 @@ Student assistants:
 
 ## Funding
 
-Vogel-Stiftung Würzbug (2023–2025)
+Vogel-Stiftung Würzburg
 
 ## Publications / Outputs
 
