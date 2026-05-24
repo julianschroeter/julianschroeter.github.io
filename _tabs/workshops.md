@@ -1,11 +1,11 @@
 ---
 title: Workshops
-layout: archives
+layout: page
 icon: fas fa-chalkboard-teacher
 order: 6
 ---
 
-# Archive
+# Current
 
 ## “International Conference: Plot and Genre in Computational Literary Studies”
 - Co-organizer of the international conference [“Plot and Genre in Computational Literary Studies”](https://www.uni-wuerzburg.de/zpd/veranstaltungen/plot-genre/), May 21–22, 2026.
@@ -32,9 +32,10 @@ Friday, May 22, 2026
 **10.30** 	Coffee Break
 **11.00** 	Julian Schröter: Agent-Based Plot Modeling for Literary Genres: First Thoughts
 **11.45** 	Karina van Dalen-Oskam: Proper Names as a Reflection of Plot and Genre
-**12.30** 	Fotis Jannidis / Leonard Konle / Julia Wunderle / Andreas Hotho:
-Character Profiles and Genre in German Dime Novel
-13.15 	Closing Remarks
+**12.30** 	Fotis Jannidis / Leonard Konle / Julia Wunderle / Andreas Hotho: Character Profiles and Genre in German Dime Novel
+**13.15** 	Closing Remarks
+
+# Archive
 
 ## Workshop: Digitale Gattungshermeneutik II (November 27 and 27, 2025, Universität Rostock)
 
