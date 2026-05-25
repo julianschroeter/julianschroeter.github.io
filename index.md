@@ -4,9 +4,9 @@ title: Home
 permalink: /
 ---
 
-# Prof. Dr. Julian Schröter
+## Prof. Dr. Julian Schröter
 
-I am professor of digital literary studies at the Ludwig-Maximlians-Universität (LMU) Munich. From 2022 to 2023, I was a Walter-Benjamin fellow (DFG) at the School of Information Sciences at the University of Illinois at Urbana-Champaign and the University of Antwerp. Until 2022, I worked as a research fellow at the University of Wuerzburg. In 2020, I was the deputy of the professorship for Digital Humanities at the University of Trier. My focus in research lies on interpretation theories, literary history, and the methodological as well as epistemological foundation of Computational Literary Studies. Much of my work can be described as the attempt to further develop machine learning and statistical reasoning to model and understand literary and cultural change.
+Since 2023, I have been a professor of digital literary studies at the Ludwig-Maximlians-Universität (LMU) Munich. From 2022 to 2023, I was a Walter-Benjamin fellow (DFG) at the School of Information Sciences at the University of Illinois at Urbana-Champaign and the University of Antwerp. Until 2022, I worked as a research fellow at the University of Wuerzburg. In 2020, I was the deputy of the professorship for Digital Humanities at the University of Trier. My focus in research lies on interpretation theories, literary history, canonization, suspense, and on the methodological as well as epistemological foundations of Computational Literary Studies (CLS). Much of my work can be described as the attempt to further develop machine learning and statistical reasoning to model and understand literary and cultural change.
 
 
 ## Contact
@@ -19,16 +19,17 @@ Email: [j.schroeter@lmu.de](mailto:j.schroeter@lmu.de)
 
 ## Current note
 
-I am in a research semester from April through September 2026. During this period, please reach out to Rabea Kleymann, who is deputy of the professorship of Digital Literary Studies.
+I am in a research semester (Forschungssemester) from April through September 2026. During this period, please reach out to Rabea Kleymann, who is deputy of the professorship of Digital Literary Studies.
 
 
 ## Research interests
 
-- Methodology of computational literary studies, including machine learning and large language models
+- Methodology of computational literary studies (CLS), including agent-based modeling, machine learning, and large language models
 - Novella and media history of German nineteenth-century literature
 - Literary and genre theory, including the modeling of literary history
 - Suspense and Mystery
 - The German *Heftroman* (dime novel)
+- History of Canonization
 
 ## Interviews
 
