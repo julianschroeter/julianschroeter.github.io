@@ -8,13 +8,16 @@ order: 6
 
 ## “International Conference: Plot and Genre in Computational Literary Studies”
 
-[“Plot and Genre in Computational Literary Studies”](https://www.uni-wuerzburg.de/zpd/veranstaltungen/plot-genre/), May 21–22, 2026.
-
-The international conference Plot and Genre in the Computational Literary Studies on Thursday, May 21, and Friday, May 22, 2026 explores how computational literary studies can model plot in ways that are comparable across methods and informative for genre analysis. Bringing together work on large-scale genre dynamics, narrative movement, segmentation, networks, space, names, and emotions, the event examines how narrative structure can be operationalized as a shared analytical object. The goal is to develop more robust models that connect narratological theory with empirical, data-driven genre research.
-
+- [“Plot and Genre in Computational Literary Studies”](https://www.uni-wuerzburg.de/zpd/veranstaltungen/plot-genre/), 
+- May 21–22, 2026
+- Venue: Universität Würzburg, ZPD
 - Chief organizer: Katrin Dennerlein
 - Co-Organizers: Agnes Hilger, Leonard Konle, Steffen Pielström, Julian Schröter, Christof Schöch, Thorsten Vitt
 - Funded by the DFG 
+
+
+The international conference Plot and Genre in the Computational Literary Studies on Thursday, May 21, and Friday, May 22, 2026 explores how computational literary studies can model plot in ways that are comparable across methods and informative for genre analysis. Bringing together work on large-scale genre dynamics, narrative movement, segmentation, networks, space, names, and emotions, the event examines how narrative structure can be operationalized as a shared analytical object. The goal is to develop more robust models that connect narratological theory with empirical, data-driven genre research.
+
 
 Thursday, May 21, 2026
 **2.15** 	Katrin Dennerlein / Agnes Hilger / Leonard Konle / Steffen Pielström / Julian Schröter / Christof Schöch / Thorsten Vitt: Introduction
@@ -41,9 +44,10 @@ Friday, May 22, 2026
 
 ## Workshop: Digitale Gattungshermeneutik II (November 27 and 27, 2025, Universität Rostock)
 
-Organizer: Ulrike Henny-Krahmer / Julian Schröter
-Location: Universität Rostock
-November 27 and 28, 2025
+- November 27 and 28, 2025
+- Organizer: Ulrike Henny-Krahmer / Julian Schröter
+- Venue: Universität Rostock
+
 
 **Abstract**: Aus hermeneutischer Sicht können Gattungen als Kontexte literarischer Werke verstanden werden, die einerseits deren Entstehung, Rezeption und Interpretation und andererseits auch Strukturen, Inhalte und Stil der Werke beeinflussen. Vergleichsweise wenig Aufmerksamkeit hat die Forschung in Literaturwissenschaft und Computational Humanities dem Sachverhalt gewidmet, dass literarische Gattungen selbst ebenfalls in unterschiedliche Kontexte eingebettet sind. Am besten untersucht ist der zeitliche Kontext (Underwood 2019), aber es gibt noch mehr: soziale, sprachliche, kulturelle, geographische, mediale und materielle Kontexte, in denen sich Gattungen entfalten (zur medialen Bedingtheit von Gattung vgl. Meyer 1987). Der Workshop legt einen Schwerpunkt auf die Betrachtung, Modellierung und Analyse solcher Kontexte als Teil der Untersuchung literarischer Gattungen mit digitalen Methoden (Hesselbach et al. 2024). Auch werden die Erschließung neuer Korpora (Henny-Krahmer 2023), neuere methodische Entwicklungen der digitalen Gattungsanalyse, etwa hinsichtlich des Einsatzes von Large Language Models und Machine Learning, in den Blick genommen. Darüber hinaus widmet sich der Workshop praxeologischen Perspektiven auf Gattung (Martus/Spoerhase 2022, Gittel 2021), der Frage nach der begrifflichen Verfasstheit und Vagheit von Gattungen (Schröter 2025) sowie dem Verhältnis von Gattung und Literaturgeschichte (Gymnich et al. 2017). Insgesamt soll der aktuelle Stand der Forschung zu literarischen Gattungen innerhalb der Computational Literary Studies reflektiert und diskutiert werden. Literatur: Hesselbach, R., Calvo Tello, J., Henny-Krahmer, U., Schöch, C. & Schlör, D. (2024). Digital Stylistics in Romance Studies and Beyond. University Publishing heiUP.Gittel, Benjamin: Fiktion und Genre. Theorie und Geschichte referenzialisierender Lektürepraktiken. 1870–1910. De Gruyter. Gymnich, M., Neumann, B., & Nünning, A. (Hrsg.). (2007). Gattungstheorie und Gattungsgeschichte. WVT, Wiss. Verl. Trier. Henny-Krahmer, U. (2023). Genre Analysis and Corpus Design. Nineteenth-Century Spanish-American Novels. Schriften des Instituts für Dokumentologie und Editorik, Band 17. Norderstedt: Books on Demand. Martus, S., & Spoerhase, C. (2022). Geistesarbeit: Eine Praxeologie der Geisteswissenschaften (Erste Auflage). Suhrkamp. Meyer, R. (1987). Novelle und Journal, I: Titel und Normen: Untersuchungen zur Terminologie der Journalprosa, zu ihren Tendenzen, Verhältnissen und Bedingungen. Steiner. Schröter, J. (2025). Zur Modellierung von Unsicherheit: Machine Learning und begriffliche Vagheit am Beispiel der Novellen im 19. Jahrhundert. Book of Abstracts – DHd 2025, 284–288. Underwood, T. (2019). Distant Horizons. Digital Evidence and Literary Change. The University of Chicago Press.
 
@@ -65,8 +69,8 @@ Katherine Bode is Professor of Literary and Textual Studies at the Australian Na
 
 # Workshop: Digitale Gattungshermeneutik I (September 12 and 13, 2024, LMU München)
 
-Organizers: Julian Schröter / Ulrike Henny-Krahmer
-Venue: LMU Munich, Philolocium
+- Organizers: Julian Schröter / Ulrike Henny-Krahmer
+- Venue: LMU Munich, Philolocium
  
 **Abstract:** Textsorten und literarische Genres stehen seit mehr als einem Jahrzehnt verstärkt im Fokus des Distant Reading. Während zunächst die Erkenn- und Reproduzierbarkeit von Textgruppen über stilometrische Nähe und distanzbasiertes Clustering sowie die Replikation von Gattungsordnungen über Klassifikationsaufgaben mit maschinellem Lernen im Vordergrund standen (so etwa noch Jockers 2013), sind seit einigen Jahren (insb. Underwood 2019) Fragen der Erfassung historischer Gattungssemantiken stärker in den Fokus gerückt. Man kann dies als einen Wandel von einem klassifikatorischen Interesse an Gattungen als Kategoriensystemen hin zu historischen und hermeneutischen Interessen an Gattungen als kommunikativen Einheiten in Kontexten ästhetischer Erfahrung beschreiben. Der Workshop will den Weg zu einem historisierenden und im weitesten Sinn hermeneutischen Interesse weiterverfolgen, indem er das Fragespektrum ausweitet: Verfahren aus dem Bereich der computergestützten Analyse und insbesondere des maschinellen Lernens erscheinen nicht nur geeignet, klassifikatorische Ansätze der Gattungsforschung zu unterstützen, sondern lassen sich auch einsetzen, um die Praktiken literarischer Kulturen im Verhältnis zwischen Texten und Gattungen zu untersuchen. Im Workshop sollen Grundfragen der Modellierung von Literaturgeschichte und des Verhältnisses zwischen digitaler Gattungsstilistik und (historischen sowie heutigen) literarischen Praktiken des Umgangs mit Gattungen aufgeworfen und adressiert werden. Zu den möglichen Themen gehören:
 
