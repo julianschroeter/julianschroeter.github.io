@@ -12,9 +12,7 @@ I am professor of digital literary studies at the Ludwig-Maximlians-Universität
 ## Contact
 
 Prof. Dr. Julian Schröter
-
 Schellingstr. 3 RG  
-
 Ludwig-Maximilians-Universität München
 
 80799 München
