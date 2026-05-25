@@ -16,7 +16,7 @@
 
 - type: fediverse
   icon: "fas fa-globe"
-  url: "https://fedihum.org/home/@julianschroeter"
+  url: "https://fedihum.org/@julianschroeter"
 
 - type: bluesky
   icon: "fas fa-cloud"
