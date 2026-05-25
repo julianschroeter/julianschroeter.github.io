@@ -40,7 +40,7 @@ order: 3
 - Julian Schröter, Keli Du, Jenia Dudar, Christopher Rok, and Christof Schöch (2021): “From Keyness to Distinctiveness – Triangulation and Evaluation in Computational Literary Studies.” *Journal of Literary Theory* 15(1–2), 81–108.
 - Julian Schröter (2020): “Supervised Learning and the Indeterminacy of Disordered Genres.” In *Digital Humanities 2020, Ottawa*.
 - Julian Schröter (2019): “Gattungsgeschichte und ihr Gattungsbegriff. Am Beispiel der Novellen.” *Journal of Literary Theory* 13(2), 227–257.
-- Julian Schröter and Fotis Jannidis (2017): “Die Brennerromane von Wolf Haas als postmoderne Unterhaltungskrimis.” In Michael Erler and Dorothea Klein (eds.): *Die Kunst des Erzählens*. Königshausen & Neumann, 355–374.
+- Julian Schröter and Fotis Jannidis (2017): “Die Brennerromane von Wolf Haas als postmoderne Unterhaltungskrimis.” In Michael Erler and Dorothea Klein (eds.): *Die Kunst des Erzählens*. Königshausen & Neumann, 355–374. [Pre-Final Version](/publications/schroeter_jannidis_haas_pre-final2017.pdf)
 - Julian Schröter (2015): “Interpretive Problems with Author, Self-Fashioning, and Narrator: The Controversy over Christian Kracht’s Novel Imperium.” In Dorothee Birke and Tilmann Köppe (eds.): *Author and Narrator: Transdisciplinary Contributions to a Narratological Debate*. De Gruyter, 113–138.
 
 ## Software, reviews, and shorter works
