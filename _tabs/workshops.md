@@ -6,7 +6,7 @@ order: 6
 ---
 
 
-## “International Conference: Plot and Genre in Computational Literary Studies”
+## “International Conference: Plot and Genre in Computational Literary Studies” (2026)
 
 - [“Plot and Genre in Computational Literary Studies”](https://www.uni-wuerzburg.de/zpd/veranstaltungen/plot-genre/), 
 - May 21–22, 2026
@@ -42,7 +42,7 @@ Friday, May 22, 2026
 
 # Archive
 
-## Workshop: Digitale Gattungshermeneutik II (November 27 and 27, 2025, Universität Rostock)
+## Workshop: Digitale Gattungshermeneutik II (2025)
 
 - November 27 and 28, 2025
 - Organizer: Ulrike Henny-Krahmer / Julian Schröter
@@ -55,7 +55,7 @@ Friday, May 22, 2026
 
  
 
-## International Workshop: Scaling from Digital and Computational Perspectives (May 22 and 23 2025, Center for Advanced Studies, Munich)
+## International Workshop: Scaling from Digital and Computational Perspectives (2025)
 
 - Workshop of the CAS Research Focus “Scales/Maßstäbe” 
 - Organizeer: Julian Schröter (LMU)
@@ -70,7 +70,7 @@ Keynote, 22 May, 10 a.m.: Prof. Katherine Bode, Ph.D.: Diffractive Writing: Text
 Katherine Bode is Professor of Literary and Textual Studies at the Australian National University. She is author of Reading by Numbers: Recalibrating the Literary Field (2012).
 
 
-# Workshop: Digitale Gattungshermeneutik I (September 12 and 13, 2024, LMU München)
+## Workshop: Digitale Gattungshermeneutik I (2024)
 
 - Organizers: Julian Schröter / Ulrike Henny-Krahmer
 - Venue: LMU Munich, Philolocium
@@ -86,3 +86,14 @@ Gattungspolitik: Die historischen Praktiken der Zuordnung von Texten zu Gattunge
 Bei der Bearbeitung der genannten Themen im Rahmen des Workshops soll es insbesondere um das Ausloten, die Diskussion und das Anwenden der Möglichkeiten der Datenmodellierung und computergestützter Textanalyse im Sinne einer digitalen Gattungshermeneutik gehen.
 
 <img src="/workshops/digitale_gattungs-hermeneutikI_2024_Muenchen_a5-web.png" width="700">
+
+# Conference workshop and other smaller workshops
+
+##     Workshop „How to do Theory: Reflexive Praktiken in der DH Lehre“
+- Organizers: Jonathan Geiger, Jan Horstmann, Rabea Kleymann, and Julian Schröter.
+- Workshop as part of the "Dhd-Konferenz Passau", February 26 – March 1, 2024 (Passau)
+
+
+## Panel „Bedeutung in Zeiten großer Sprachmodelle“
+- Organizers: Tessa Gengnagel, Fotis Jannidis, Rabea Kleimann, Julian Schröter, and Heike Zinsmeister
+- Panel at the DHd-Konferenz Passau", February 26 – March 1, 2024 (Passau).
