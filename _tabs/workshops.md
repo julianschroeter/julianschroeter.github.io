@@ -92,8 +92,10 @@ Bei der Bearbeitung der genannten Themen im Rahmen des Workshops soll es insbeso
 ##     Workshop „How to do Theory: Reflexive Praktiken in der DH Lehre“
 - Organizers: Jonathan Geiger, Jan Horstmann, Rabea Kleymann, and Julian Schröter.
 - Workshop as part of the "Dhd-Konferenz Passau", February 26 – March 1, 2024 (Passau)
+- J. D. Geiger/J. Horstmann/R. Kleymann/J.S. (2024): „How to do Theory: Reflexive Praktiken in der DH-Lehre.“ In: Joëlle Weis/T. Haider/E. Bunout (Hg.): Book of Abstracts – DHd 2024, Passau. Zenodo, 46–49. [https://doi.org/10.5281/zenodo.10686565](https://doi.org/10.5281/zenodo.10686565).
 
 
 ## Panel „Bedeutung in Zeiten großer Sprachmodelle“
 - Organizers: Tessa Gengnagel, Fotis Jannidis, Rabea Kleimann, Julian Schröter, and Heike Zinsmeister
 - Panel at the DHd-Konferenz Passau", February 26 – March 1, 2024 (Passau).
+- T. Gengnagel/R. Kleymann/F. Jannidis/J.S./H. Zinsmeister (2024): „Bedeutung in Zeiten großer Sprachmodelle.“ In: Joëlle Weis/T. Haider/E. Bunout (Hg.): Book of Abstracts – DHd 2024, Passau. Zenodo, 81–85. [https://doi.org/10.5281/zenodo.10686565](https://doi.org/10.5281/zenodo.10686565).
