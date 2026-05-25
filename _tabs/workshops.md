@@ -56,8 +56,11 @@ Friday, May 22, 2026
  
 
 ## International Workshop: Scaling from Digital and Computational Perspectives (May 22 and 23 2025, Center for Advanced Studies, Munich)
-Workshop of the CAS Research Focus “Scales/Maßstäbe”, organized by Prof. Dr. Julian Schröter (LMU).
-[https://www.cas.lmu.de/en/events/event/scaling-from-digital-and-computational-perspectives.html](https://www.cas.lmu.de/en/events/event/scaling-from-digital-and-computational-perspectives.html).
+
+- Workshop of the CAS Research Focus “Scales/Maßstäbe” 
+- Organizeer: Julian Schröter (LMU)
+- [https://www.cas.lmu.de/en/events/event/scaling-from-digital-and-computational-perspectives.html](https://www.cas.lmu.de/en/events/event/scaling-from-digital-and-computational-perspectives.html)
+- [Download workshop programme](/workshops/CAS_Workshop_Scaling_May2025_Schroeter.pdf)
 
 The digital humanities have a rich tradition of using and reflecting on the metaphor of scale, going back to the concept of ‘scalable reading’ as a critique and development of Franco Moretti‘s notion of distantreading. Since then, questions of scale have had a strong connection to literary and textual computation and to the pair of ‘close’ versus ‘distant’ reading. However, the methodology of scaling in the humanities and social sciences has advanced and gained new power from the possibilities of generative AI and large language models.
 
