@@ -19,7 +19,7 @@ order: 6
 
 The international conference Plot and Genre in the Computational Literary Studies on Thursday, May 21, and Friday, May 22, 2026 explores how computational literary studies can model plot in ways that are comparable across methods and informative for genre analysis. Bringing together work on large-scale genre dynamics, narrative movement, segmentation, networks, space, names, and emotions, the event examines how narrative structure can be operationalized as a shared analytical object. The goal is to develop more robust models that connect narratological theory with empirical, data-driven genre research.
 
-<img src="/canvas.png" width="700">
+<img src="/workshops/canvas.png" width="700">
 
 Thursday, May 21, 2026
 **2.15** 	Katrin Dennerlein / Agnes Hilger / Leonard Konle / Steffen Pielström / Julian Schröter / Christof Schöch / Thorsten Vitt: Introduction
