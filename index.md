@@ -38,14 +38,14 @@ I am currently in a research semester (Forschungssemester). During this period, 
 
 - [Dr. Keli Du, Cluster of Excellence 3061-1 "Cross-Cultural Philology"](https://www.sprachlit.lmu.de/germanistik/de/personenverzeichnis/kontaktseite/keli-du-5cbe61ab.html)
 - [Dr. Simon Schkade, wissenschaftlicher Mitarbeiter](https://www.sprachlit.lmu.de/germanistik/de/personenverzeichnis/kontaktseite/simon-schkade-30d77d16.html)
-- [Manuela Floßmann, wissenschaftliche Mitarbeiterin)(https://www.sprachlit.lmu.de/germanistik/de/personenverzeichnis/kontaktseite/manuela-flossmann-ec1cd7a8.html)
+- [Manuela Floßmann, wissenschaftliche Mitarbeiterin](https://www.sprachlit.lmu.de/germanistik/de/personenverzeichnis/kontaktseite/manuela-flossmann-ec1cd7a8.html)
 
 ### Student Assistants:
 - Sophie Gerger (Cluster of Excellence 3061, Cross-Cultural Philology)
 - Anda Dumitrescu (Cluster of Excellence 3061, Cross-Cultural Philology)
 - Franziska Danner
-- Johanna Rottmoser (Balance Theory Project)
-- Qiana Eisenreich (Balance Theory Project)
+- Johanna Rottmoser (Balance Theory Project, TUM)
+- Qiana Eisenreich (Balance Theory Project, TUM)
 
 ### Former Student Assistants:
 - Jana Grimm (Computational Linguistics, LMU)
