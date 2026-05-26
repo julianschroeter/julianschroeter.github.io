@@ -5,7 +5,7 @@ icon: fas fa-chalkboard-teacher
 order: 5
 ---
 
-Sommer 2026
+Sommer 2026  
 Keine Lehrveranstaltungen wegen eines Forschungssemesters
 
 Winter 2025/26

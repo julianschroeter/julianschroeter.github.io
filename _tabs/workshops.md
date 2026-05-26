@@ -8,14 +8,12 @@ order: 6
 
 ## “International Conference: Plot and Genre in Computational Literary Studies” (2026)
 
-- [“Plot and Genre in Computational Literary Studies”](https://www.uni-wuerzburg.de/zpd/veranstaltungen/plot-genre/), 
 - May 21–22, 2026
 - Venue: Universität Würzburg, ZPD
 - Chief organizer: Katrin Dennerlein
 - Co-Organizers: Agnes Hilger, Leonard Konle, Steffen Pielström, Julian Schröter, Christof Schöch, Thorsten Vitt
-- Funded by the DFG 
-
-
+- Funded by the DFG
+- [https://www.uni-wuerzburg.de/zpd/veranstaltungen/plot-genre/](https://www.uni-wuerzburg.de/zpd/veranstaltungen/plot-genre/), 
 
 The international conference Plot and Genre in the Computational Literary Studies on Thursday, May 21, and Friday, May 22, 2026 explores how computational literary studies can model plot in ways that are comparable across methods and informative for genre analysis. Bringing together work on large-scale genre dynamics, narrative movement, segmentation, networks, space, names, and emotions, the event examines how narrative structure can be operationalized as a shared analytical object. The goal is to develop more robust models that connect narratological theory with empirical, data-driven genre research.
 
@@ -54,9 +52,7 @@ Friday, May 22, 2026
 **Abstract**: Aus hermeneutischer Sicht können Gattungen als Kontexte literarischer Werke verstanden werden, die einerseits deren Entstehung, Rezeption und Interpretation und andererseits auch Strukturen, Inhalte und Stil der Werke beeinflussen. Vergleichsweise wenig Aufmerksamkeit hat die Forschung in Literaturwissenschaft und Computational Humanities dem Sachverhalt gewidmet, dass literarische Gattungen selbst ebenfalls in unterschiedliche Kontexte eingebettet sind. Am besten untersucht ist der zeitliche Kontext (Underwood 2019), aber es gibt noch mehr: soziale, sprachliche, kulturelle, geographische, mediale und materielle Kontexte, in denen sich Gattungen entfalten (zur medialen Bedingtheit von Gattung vgl. Meyer 1987). Der Workshop legt einen Schwerpunkt auf die Betrachtung, Modellierung und Analyse solcher Kontexte als Teil der Untersuchung literarischer Gattungen mit digitalen Methoden (Hesselbach et al. 2024). Auch werden die Erschließung neuer Korpora (Henny-Krahmer 2023), neuere methodische Entwicklungen der digitalen Gattungsanalyse, etwa hinsichtlich des Einsatzes von Large Language Models und Machine Learning, in den Blick genommen. Darüber hinaus widmet sich der Workshop praxeologischen Perspektiven auf Gattung (Martus/Spoerhase 2022, Gittel 2021), der Frage nach der begrifflichen Verfasstheit und Vagheit von Gattungen (Schröter 2025) sowie dem Verhältnis von Gattung und Literaturgeschichte (Gymnich et al. 2017). Insgesamt soll der aktuelle Stand der Forschung zu literarischen Gattungen innerhalb der Computational Literary Studies reflektiert und diskutiert werden. Literatur: Hesselbach, R., Calvo Tello, J., Henny-Krahmer, U., Schöch, C. & Schlör, D. (2024). Digital Stylistics in Romance Studies and Beyond. University Publishing heiUP.Gittel, Benjamin: Fiktion und Genre. Theorie und Geschichte referenzialisierender Lektürepraktiken. 1870–1910. De Gruyter. Gymnich, M., Neumann, B., & Nünning, A. (Hrsg.). (2007). Gattungstheorie und Gattungsgeschichte. WVT, Wiss. Verl. Trier. Henny-Krahmer, U. (2023). Genre Analysis and Corpus Design. Nineteenth-Century Spanish-American Novels. Schriften des Instituts für Dokumentologie und Editorik, Band 17. Norderstedt: Books on Demand. Martus, S., & Spoerhase, C. (2022). Geistesarbeit: Eine Praxeologie der Geisteswissenschaften (Erste Auflage). Suhrkamp. Meyer, R. (1987). Novelle und Journal, I: Titel und Normen: Untersuchungen zur Terminologie der Journalprosa, zu ihren Tendenzen, Verhältnissen und Bedingungen. Steiner. Schröter, J. (2025). Zur Modellierung von Unsicherheit: Machine Learning und begriffliche Vagheit am Beispiel der Novellen im 19. Jahrhundert. Book of Abstracts – DHd 2025, 284–288. Underwood, T. (2019). Distant Horizons. Digital Evidence and Literary Change. The University of Chicago Press.
 
 <img src="/workshops/Workshop_Flyer-DigGattHermII_Rostock2025.jpg" width="700">
-
  
-
 ## International Workshop: Scaling from Digital and Computational Perspectives (2025)
 
 - Workshop of the CAS Research Focus “Scales/Maßstäbe” 
