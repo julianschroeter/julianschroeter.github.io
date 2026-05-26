@@ -1,8 +1,8 @@
----
-title: Lecture Series
-icon: fas fa-microphone
-order: 6
----
+---  
+title: Lecture Series  
+icon: fas fa-microphone  
+order: 6  
+---  
 
 # Lecture Series
 

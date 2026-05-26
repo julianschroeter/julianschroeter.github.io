@@ -1,10 +1,10 @@
----
-title: Computational Literary Studies
-layout: page
-permalink: /lecture-series/computational-literary-studies/
----
+---  
+title: Computational Literary Studies  
+layout: page  
+permalink: /lecture-series/computational-literary-studies/  
+---  
 
-# Guest lecture series "Computational Literary Studies" (long-term)
+# Guest lecture series "Computational Literary Studies" (long-term)  
 - Mark Finlayson (Florida International University): Computational Approaches to Understanding Narrative (May 31st, 2023, 18 Uhr, Schellingstr. 3, R 205)
 - Ulrike Henny-Krahmer (Universität Rostock): Amor – historia – costumbres: Romanuntergattungen und digitale Textanalyse am Beispiel hispanoamerikanischer Literatur des 19. Jahrhunderts (February 2nd, 2024, 11 Uhr, Schellingstr. 9, R 116)
 - Fotis Jannidis, Steffen Pielström, Leo Konle (Universität Würzburg): Komplexität (June 10th, 2024, 10–12 Uhr (Zoom).
