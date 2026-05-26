@@ -5,7 +5,7 @@ icon: fas fa-book
 order: 3
 ---
 
-[Download Schriftenverzeichnis (German) / full list of publications)](Schriften_Schroeter_de.pdf)
+[PDF Download: Schriftenverzeichnis (German)](/pdfs/Schriften_Schroeter_de.pdf)
 
 
 ## Monographs
