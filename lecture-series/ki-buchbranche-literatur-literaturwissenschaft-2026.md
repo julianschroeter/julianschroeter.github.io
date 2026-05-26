@@ -4,13 +4,12 @@ layout: page
 permalink: /lecture-series/ki-buchbranche-literatur-literaturwissenschaft/
 ---
 
-# KI in Buchbranche, Literatur und Literaturwissenschaft (Sommer 2026)
-
-MONTAGS, 18 - 20 Uhr c. t.
+montags, 18–20 Uhr c. t.
 
 Hybrid: On-Site und Online: Schellingstr. 3, S006
 
-Gefördert durch die Münchner Universitätsgesellschaft [mug](https://unigesellschaft.de/)
+Gefördert durch die Münchner Universitätsgesellschaft [mug](https://unigesellschaft.de/)  
+
 Unterstützt durch den [AI-HUB@LMU](https://www.lmu.de/ai-hub/en/)
 
 Hinweise zur Veranstaltung im Rahmen der Studiengänge am Zentrum für Buchwissenschaft: [https://www.zfb.uni-muenchen.de/aktuelles/ringvorlesung_sose26/index.html](https://www.zfb.uni-muenchen.de/aktuelles/ringvorlesung_sose26/index.html)
