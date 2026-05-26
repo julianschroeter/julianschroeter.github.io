@@ -17,9 +17,9 @@ I am in a research semester from April through September 2026. During this perio
 - Host of Professor Ted Underwood, PhD, as a Visiting Fellow in the Research Focus “Scales” at the Center for Advanced Studies (CAS), LMU Munich.
   - May 11, 2026, 6–8 p.m., Schellingstr. 3, S006: “AI as a Cultural Technology.”
   - May 13, 2026, 12–2 p.m., CAS, Seestr. 13: Lunch Talk, “Can Language Models Scale Down to Understand Local Context?”
-- Lecture series “AI in the Book Industry, Literature, and Literary Studies,” summer semester 2026, funded by the Münchner Universitätsgesellschaft and supported by AI-HUB@LMU.
+- Lecture series “AI in the Book Industry, Literature, and Literary Studies,” summer semester 2026, funded by the Münchner Universitätsgesellschaft and supported by AI-HUB@LMU [Link to Lecture Series](/lecture-series/ki-buchbranche-literatur-literaturwissenschaft/).
   - Andrew Piper, June 15, 2026, 6–8 p.m., online: “When Engineers Tell Tales: Reading AI Story Generation Evaluation through the Humanities.”
-  - Rabea Kleymann: “Text Analysis with AI” (exact topic to be announced).
+  - Rabea Kleymann, July 6, 2026: “Text Analysis with AI” (exact topic to be announced).
 
 ## Upcoming conference presentations
 
