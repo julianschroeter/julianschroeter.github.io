@@ -26,6 +26,10 @@
   icon: "fas fa-globe"
   url: "https://scholar.google.com/citations?user=B___tZYAAAAJ&hl=en"
 
+- type: orcid
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0003-0168-2608"
+
 # - type: mastodon
 #    icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification

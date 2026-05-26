@@ -15,8 +15,8 @@ Unterstützt durch den [AI-HUB@LMU](https://www.lmu.de/ai-hub/en/)
 
 Hinweise zur Veranstaltung im Rahmen der Studiengänge am Zentrum für Buchwissenschaft: [https://www.zfb.uni-muenchen.de/aktuelles/ringvorlesung_sose26/index.html](https://www.zfb.uni-muenchen.de/aktuelles/ringvorlesung_sose26/index.html)
 
-Zugang zum Zoom-Raum: [https://lmu-munich.zoom-x.de/j/65369395048?pwd=Q2xuPyIXNlradfDao2RbC1cZBnaDcL.1](https://lmu-munich.zoom-x.de/j/65369395048?pwd=Q2xuPyIXNlradfDao2RbC1cZBnaDcL.1)
-Meeting-ID: 653 6939 5048
+Zugang zum Zoom-Raum: [https://lmu-munich.zoom-x.de/j/65369395048?pwd=Q2xuPyIXNlradfDao2RbC1cZBnaDcL.1](https://lmu-munich.zoom-x.de/j/65369395048?pwd=Q2xuPyIXNlradfDao2RbC1cZBnaDcL.1)  
+Meeting-ID: 653 6939 5048  
 Kenncode: 556008
 
 
