@@ -32,7 +32,7 @@ order: 4
 
 - Member of the working group *DHd Theorie* (since 2022) 
 - Member of the *DHd Association* (since 2020)
-Lead: Transversal Perspective „Digital Humanities: Components and Methods“ in the Cluster of Excellence 3061-1 „Cross-Cultural Philology“
+- Lead: Transversal Perspective „Digital Humanities: Components and Methods“ in the Cluster of Excellence 3061-1 „Cross-Cultural Philology“
 - PI in the Cluster of Excellenc 3061-01 „Cross-Cultural Philology“; project: „Computational Analysis of Patterns of Canon Formation“ PostDoc-Mitarbeiter: Keli Du; stud. Hilfskräfte: Anda Dumitrescu, Sophie Gerger
 - Project cooperation with Jana Diesner (Human-Centered Computing, TUM): Balance Theory und literarische Netzwerkanalyse (Förderinstitution: LSST Discovery Alliance); stud. Hilfskräfte: Teresa Stäblein, Johanna Rottmoser, Qiana Eisenreich, Anda Dumitrescu
 - Member of the Research Focus „Scales/Maßstäbe“ in the Center for Advanced Studies CAS. (Spokespersons: Carlos Spoerhase and Sina Steglich)
