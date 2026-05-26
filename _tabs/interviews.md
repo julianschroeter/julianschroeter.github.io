@@ -1,7 +1,7 @@
 ---
 title: Interviews
 layout: page
-icon: fas fa-chalkboard-teacher
+icon: fas fa-bullhorn
 order: 8
 ---
 
