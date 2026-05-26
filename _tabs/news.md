@@ -9,7 +9,7 @@ order: 2
 
 ## Research semester 2026
 
-I am in a research semester from April through September 2026. During this period, please reach out to Rabea Kleymann, who is deputy of the professorship of Digital Literary Studies.
+I am currently in a research semester (Forschungssemester). During this period, please reach out to [Rabea Kleymann](https://www.sprachlit.lmu.de/germanistik/de/personenverzeichnis/kontaktseite/rabea-kleymann-b648c13b.html), who is deputy of the professorship of Digital Literary Studies.
 
 ## Conferences and talks
 
@@ -23,6 +23,5 @@ I am in a research semester from April through September 2026. During this perio
 
 ## Upcoming conference presentations
 
-- May 21–22, 2026, Würzburg: “Agent-Based Plot Modeling for Literary Genres: First Thoughts,” at “Plot and Genre in Computational Literary Studies.”
 - June 18–19, 2026, Darmstadt, with Keli Du: “On the Relationship Between Textual and Contextual Factors of Canonization,” at “Mapping the Canon: Quantitative Approaches to Literary History.”
 - July 16–18, 2026, Göttingen, with Benjamin Gittel: “Praxis in den Computational Literary Studies: zwischen Tradition und Innovation,” at “Was geht – und warum? Normative Perspektiven auf literaturwissenschaftliche Praktiken.”
