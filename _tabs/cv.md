@@ -47,7 +47,7 @@ order: 4
 - Editor of the Journal of Literary Theory (2013–2022)
 - Responsible for the course catalogue *Neuere deutsche Literatur* (Würzburg, 2018–2020).
 - Member of the team developing the interdisciplinary Master programme „Neuere Literaturen“ (Würzburg, 2017–2018).
-- *Fachmentor* *Frühstudium* German Literature (*Würzburg*, 2016–2020).
+- *Fachmentor* for the *Frühstudium* German Literature (*Würzburg*, 2016–2020).
 - Mitarbeit an der Revision der modularisierten Studiengänge im Fach Neuere deutsche Literatur (*Würzburg*, 2014–2015).
 - Responsible for planning the introductory courses „Fit fürs Studium“, *Philosophische Fakultät der Universität Würzburg* (2014–2019).
 - Reviewer for the DFG, FWF, Humboldt-Stiftung
