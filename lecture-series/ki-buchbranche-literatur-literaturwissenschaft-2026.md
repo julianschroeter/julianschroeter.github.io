@@ -1,7 +1,7 @@
 ---
 title: KI in Buchbranche, Literatur und Literaturwissenschaft (Sommer 2026)
 layout: page
-permalink: /lecture-series/ki-buchbranche-literatur-literaturwissenschaft-2026/
+permalink: /lecture-series/ki-buchbranche-literatur-literaturwissenschaft/
 ---
 
 # KI in Buchbranche, Literatur und Literaturwissenschaft (Sommer 2026)
