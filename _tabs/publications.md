@@ -5,8 +5,6 @@ icon: fas fa-book
 order: 3
 ---
 
-# Publications
-
 ## Monographs
 
 - Julian Schröter (2026): *Quantitative Gattungsgeschichte: Zur Modellierung der deutschsprachigen Novelle im 19. Jahrhundert*. De Gruyter. [https://doi.org/10.1515/9783112236697](https://doi.org/10.1515/9783112236697). Open Access.

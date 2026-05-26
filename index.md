@@ -22,7 +22,7 @@ Institutional Web page: [https://www.germanistik.lmu.de/schroeter](https://www.g
 
 ## Current note
 
-I am in a research semester (Forschungssemester) from April through September 2026. During this period, please reach out to Rabea Kleymann, who is deputy of the professorship of Digital Literary Studies.
+I am currently in a research semester (Forschungssemester). During this period, please reach out to [Rabea Kleymann](https://www.sprachlit.lmu.de/germanistik/de/personenverzeichnis/kontaktseite/rabea-kleymann-b648c13b.html), who is deputy of the professorship of Digital Literary Studies.
 
 
 ## Research interests
