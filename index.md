@@ -8,6 +8,7 @@ permalink: /
 
 Since 2023, I have been a professor of digital literary studies at the Ludwig-Maximlians-Universität (LMU) Munich. From 2022 to 2023, I was a Walter-Benjamin fellow (DFG) at the School of Information Sciences at the University of Illinois at Urbana-Champaign and the University of Antwerp. Until 2022, I worked as a research fellow at the University of Wuerzburg. In 2020, I was the deputy of the professorship for Digital Humanities at the University of Trier. My focus in research lies on interpretation theories, literary history, canonization, suspense, and on the methodological as well as epistemological foundations of Computational Literary Studies (CLS). Much of my work can be described as the attempt to further develop machine learning and statistical reasoning to model and understand literary and cultural change.
 
+[Download full cv (German including list of publicatoins)](/pdfs/CV_JulianSchroeter_de.pdf)
 
 ## Contact
 
