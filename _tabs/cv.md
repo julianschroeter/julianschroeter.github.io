@@ -5,6 +5,8 @@ icon: fas fa-graduation-cap
 order: 4
 ---
 
+[PDF Download: Full CV, including a list of publications (German)](/pdfs/CV_JulianSchroeter_de.pdf)
+
 # Education
 
 - **2025:** Habilitation, *Venia legendi* in *Neuere deutsche Literatur* and Digital Humanities, University of Würzburg: *Quantitative Gattungsgeschichte: Zur Modellierung der deutschsprachigen Novelle im 19. Jahrhundert*
