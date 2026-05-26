@@ -18,6 +18,8 @@ Ludwig-Maximilians-Universität München
 80799 München  
 Email: [j.schroeter@lmu.de](mailto:j.schroeter@lmu.de)
 
+Institutional Web page: [https://www.germanistik.lmu.de/schroeter](https://www.germanistik.lmu.de/schroeter)
+
 ## Current note
 
 I am in a research semester (Forschungssemester) from April through September 2026. During this period, please reach out to Rabea Kleymann, who is deputy of the professorship of Digital Literary Studies.
