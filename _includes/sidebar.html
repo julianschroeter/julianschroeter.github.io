@@ -15,6 +15,14 @@
     </div>
     <a class="site-title d-block" href="{{ '/' | relative_url }}">{{ site.title }}</a>
     <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>
+
+    <div class="lmu-logo-wrapper">
+      <a href="https://www.lmu.de/en/" target="_blank" rel="noopener noreferrer">
+        <img src="{{ '/assets/img/lmu-logo.png' | relative_url }}"
+          alt="LMU Munich"
+          class="lmu-logo">
+      </a>
+    </div>
   </header>
   <!-- .profile-wrapper -->
 
@@ -101,6 +109,14 @@
         </a>
       {% endif %}
     {% endfor %}
+    <div class="lmu-logo-wrapper">
+      <a href="https://www.lmu.de/en/" target="_blank" rel="noopener noreferrer">
+        <img
+          src="{{ '/assets/img/lmu-logo.png' | relative_url }}"
+          alt="LMU Munich"
+          class="lmu-logo">
+      </a>
+</div>
   </div>
   <!-- .sidebar-bottom -->
 </aside>
