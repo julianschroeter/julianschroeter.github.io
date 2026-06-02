@@ -48,7 +48,7 @@ order: 7
 - **Modeling Prototypicality for Genre Concepts.** DH Conference 2023, Graz. In: *Digital Humanities 2023: Book of Abstracts*. Zenodo, 255–256. [https://doi.org/10.5281/zenodo.7961822](https://doi.org/10.5281/zenodo.7961822) [see publications](/_tabs/publications/). 
 - **Modeling Prototypicality of Genre Concepts with machine learning and the c@1-score.** »ISchool Research Showcase 2022«, School of Information Sciences, University of Illinois at Urbana Champaign, November 9, 2022. Poster (Zenodo): [https://doi.org/10.5281/zenodo.7945007](https://doi.org/10.5281/zenodo.7945007)
 - **Representing and Modeling Cultural Relevance in Corpora for Historical Analysis.** »DH Conference 2022, Tokyo.« In: *Digital Humanities 2022, Tokyo: Book of Abstracts*. Poster (Zenodo): [https://doi.org/10.5281/zenodo.7945288](https://doi.org/10.5281/zenodo.7945288)
-- **The history of the Novelle: Analysing Disordered Genre Semantics.** »Annual meeting of the SPP 2207 Computational Literary Studies«, University of Würzbur, March 16–18, 2021.
+- **The history of the Novelle: Analysing Disordered Genre Semantics.** »Annual meeting of the SPP 2207 Computational Literary Studies«, University of Würzbur, March 16–18, 2021. Poster (Zenodo): [https://doi.org/10.5281/zenodo.7944930](https://doi.org/10.5281/zenodo.7944930)
 - **Supervised Learning and the Indeterminacy of Disordered Genres.** »Digital Humanities Conferene 2020, Ottawa.« In: *Digital Humanities 2020, Ottawa: Book of Abstracts*.
 
 ## Podium discussions and public outreach

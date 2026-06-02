@@ -14,7 +14,7 @@ I am currently in a research semester (Forschungssemester). During this period, 
 ## Conferences and talks
 
 - Co-organizer of the international conference [“Plot and Genre in Computational Literary Studies”](https://www.uni-wuerzburg.de/zpd/veranstaltungen/plot-genre/), May 21–22, 2026.
-- Host of Professor Ted Underwood, PhD, as a Visiting Fellow in the Research Focus “Scales” at the Center for Advanced Studies (CAS), LMU Munich.
+- Host of Professor Ted Underwood, PhD, as a Visiting Fellow from May 1st to 31st at the Research Focus “Scales” at the Center for Advanced Studies (CAS), LMU Munich.
   - May 11, 2026, 6–8 p.m., Schellingstr. 3, S006: “AI as a Cultural Technology.”
   - May 13, 2026, 12–2 p.m., CAS, Seestr. 13: Lunch Talk, “Can Language Models Scale Down to Understand Local Context?”
 - Lecture series “AI in the Book Industry, Literature, and Literary Studies,” summer semester 2026, funded by the Münchner Universitätsgesellschaft and supported by AI-HUB@LMU [Link to Lecture Series](/lecture-series/ki-buchbranche-literatur-literaturwissenschaft/).
