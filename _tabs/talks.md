@@ -20,11 +20,11 @@ order: 7
 - **Zur Analyse von Spannung aus quantitativer und qualitativer Perspektive**, Universität Hamburg, January 16, 2025
 - **Contextual perspectival modeling: The praxeological and political history of literary genres** Conference »Rewriting of Literary History with Algorithms«, Chicago, Illinois, November 15, 2024.
 - Rabea Kleymann/Julian Schröter: **Generative Sprachmodelle in interpretativen Konstellationen: Annäherungen über den Bedeutungsbegriff.** »Konferenz (Generative) KI für Kultur- und Textdaten«, Weimar, November 4, 2024.
-- **Gattung – Medium – Politik: Eine quantitative Geschichte der Novellen des 19. Jahrhunderts.** Ringvorlesung Digital Humanities Talk, October 21, 2024 Rostock. Presentation slides: (Zenodo): [https://doi.org/10.5281/zenodo.14041289](https://doi.org/10.5281/zenodo.14041289)
+- **Gattung – Medium – Politik: Eine quantitative Geschichte der Novellen des 19. Jahrhunderts.** Ringvorlesung Digital Humanities Talk, October 21, 2024 Rostock. Presentation slides (Zenodo): [https://doi.org/10.5281/zenodo.14041289](https://doi.org/10.5281/zenodo.14041289)
 - **Modellierung des Zusammenspiels von politischen und ästhetischen Funktionen von Gattungen.** Workshop »Digitale Gattungshermeneutik«, München, September 12, 2024.
 - **Eine Quantitative Geschichte der Novellen des 19. Jahrhunderts.** Würzburg, February 6, 2024.
 - **Format- und genrespezifische Empfehlungspraktiken: Quantitative Auswertung von Fanforen und Rezensionsplattformen.** Workshop: »Best of. Praktiken des Empfehlens in Medienkulturen der Gegenwart«, organized by Elena Beregow and Erika Thomalla, LMU Munich, May 17, 2024.
-- **Generative Sprachmodelle in Literatur und Philologie.** »29. Workshop des Instituts für Allgemeinene und Vergleichende Literaturwissenschaft: Gespräche mit und über mehr oder weniger künstlich(e) Intelligenzen«, Munich, July 21, 2023.
+- **Generative Sprachmodelle in Literatur und Philologie.** »29. Workshop des Instituts für Allgemeinene und Vergleichende Literaturwissenschaft: Gespräche mit und über mehr oder weniger künstlich(e) Intelligenzen«, Munich, July 21, 2023. Presentation slides (Zenodo): [https://doi.org/10.5281/zenodo.8199796](https://doi.org/10.5281/zenodo.8199796)
 - **Spannung im deutschsprachigen Heftroman.** Workshops »Der deutsche Heftroman«, Munich, July 6, 2023.
 - **Interpretation rather than Optimization: Machine Learning and Historical Modeling of Literary Genres.** School of Art and Design, University of Illinois at Urbana-Champaign, Feb. 23, 2023.
 - **Modeling prototypicality of genre concepts with machine learning and the c@1-score.** »AEOLIAN Workshop: Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences«, Hathi Trust Research Center, University of Illinois at Urbana-Champaign,  Nov 30, 2022.
@@ -46,8 +46,8 @@ order: 7
 ## Poster Presentations
 
 - **Modeling Prototypicality for Genre Concepts.** DH Conference 2023, Graz. In: *Digital Humanities 2023: Book of Abstracts*. Zenodo, 255–256. [https://doi.org/10.5281/zenodo.7961822](https://doi.org/10.5281/zenodo.7961822) [see publications](/_tabs/publications/). 
-- **Modeling Prototypicality of Genre Concepts with machine learning and the c@1-score.** »ISchool Research Showcase 2022«, School of Information Sciences, University of Illinois at Urbana Champaign, November 9, 2022.
-- **Representing and Modeling Cultural Relevance in Corpora for Historical Analysis.** »DH Conference 2022, Tokyo.« In: *Digital Humanities 2022, Tokyo: Book of Abstracts*.
+- **Modeling Prototypicality of Genre Concepts with machine learning and the c@1-score.** »ISchool Research Showcase 2022«, School of Information Sciences, University of Illinois at Urbana Champaign, November 9, 2022. Poster (Zenodo): [https://doi.org/10.5281/zenodo.7945007](https://doi.org/10.5281/zenodo.7945007)
+- **Representing and Modeling Cultural Relevance in Corpora for Historical Analysis.** »DH Conference 2022, Tokyo.« In: *Digital Humanities 2022, Tokyo: Book of Abstracts*. Poster (Zenodo): [https://doi.org/10.5281/zenodo.7945288](https://doi.org/10.5281/zenodo.7945288)
 - **The history of the Novelle: Analysing Disordered Genre Semantics.** »Annual meeting of the SPP 2207 Computational Literary Studies«, University of Würzbur, March 16–18, 2021.
 - **Supervised Learning and the Indeterminacy of Disordered Genres.** »Digital Humanities Conferene 2020, Ottawa.« In: *Digital Humanities 2020, Ottawa: Book of Abstracts*.
 
