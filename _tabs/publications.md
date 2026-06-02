@@ -16,8 +16,8 @@ order: 3
 
 ## Forthcoming and accepted articles
 
-- Julian Schröter: “Digital Humanities.” In Christine Knoop and Melanie Wald-Fuhrmann (eds.): *Oxford Handbook for Systematic Empirical Research in the Arts*. Accepted for publication.
-- Julian Schröter (2026): “Wissenschaftliches Arbeiten.” In Fotis Jannidis, Hubertus Kohle, and Malte Rehbein (eds.): *Digital Humanities. Einführung*. 2nd edition. Metzler.
+- Julian Schröter: “Digital Humanities.” In Christine Knoop and Melanie Wald-Fuhrmann (eds.): *Oxford Handbook for Systematic Empirical Research in the Arts*.
+- Julian Schröter: “Wissenschaftliches Arbeiten.” In Fotis Jannidis, Hubertus Kohle, and Malte Rehbein (eds.): *Digital Humanities. Einführung*. 2nd edition. Metzler.
 
 ## Articles and abstracts
 
