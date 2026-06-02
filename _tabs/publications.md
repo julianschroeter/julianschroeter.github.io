@@ -22,6 +22,7 @@ order: 3
 
 ## Articles and abstracts
 
+- Schröter, Julian (2026:) "Love, Canon, and Gender: A Quantitative Study of 19th-Century German Literary Culture". In Beate Kellner and Susanne Reichlin (eds.): Vormoderne Praktiken der Philologie. De Gruyter, pp. 345–364. [https://doi.org/10.1515/9783111664934-015](https://doi.org/10.1515/9783111664934-015)
 - Axel Pichler and Julian Schröter (2026): “Die hypothetisch-deduktive Methode als Evaluationsinstrument für die Interpretationskompetenz von LLMs. Experimente mit GPT-4.1.” In Silke Schwandt et al. (eds.): *Book of Abstracts – DHd 2026. Nicht nur Text, nicht nur Daten*. Zenodo, 157–161. [https://doi.org/10.5281/zenodo.20441344](https://doi.org/10.5281/zenodo.20441344).
 - Julian Schröter and Martin Ruhl (2026): “Zwischen Journal und Buch: Entwurf eines Mixed-Method-Designs für Fassungsvergleiche am Beispiel von Erzähltexten des 19. Jahrhunderts.” In Elisa Ronzheimer and Sarah Nienhaus (eds.): *Editio – Internationales Jahrbuch für Editionswissenschaft*. Beiheft. De Gruyter, 71–93.
 - Fotis Jannidis, Rabea Kleymann, Julian Schröter, and Heike Zinsmeister (2025): “Do Large Language Models Understand Literature? Case Studies and Probing Experiments on German Poetry.” *Journal of Computational Literary Studies* 4(1). [https://doi.org/10.48694/jcls.4225](https://doi.org/10.48694/jcls.4225).
@@ -34,7 +35,7 @@ order: 3
 - Julian Schröter (2023): “Mixed Methods.” In AG Digital Humanities Theorie des Verbandes Digital Humanities im deutschsprachigen Raum (ed.): *Begriffe der Digital Humanities. Ein diskursives Glossar*. [https://doi.org/10.17175/wp_2023_008_v2](https://doi.org/10.17175/wp_2023_008_v2)
 - Julian Schröter (2023): “‘Spannung ist Männersache’? Zur quantitativen Analyse von Suspense in Heftromanen.” *Heftromane. KODEX. Jahrbuch der internationalen buchwissenschaftlichen Gesellschaft* 11, 283–299.
 - Julian Schröter (2023): “‘Tod des Autors’ und andere Topoi der Autorschaftstheorie. Eine rhetorische Analyse der Debattenkonstellation.” In Michael Eggers and Adrian Robanus (eds.): *Topik der Theorie ‘nach der Theorie’*. LiLi 6, 203–214. [https://doi.org/10.1007/978-3-662-66813-9_13](https://doi.org/10.1007/978-3-662-66813-9_13).
-- Julian Schröter, Jakob Leitgeb, and Thomas Valta (2023): “Ein digitales Korpus der Novellen und Journalprosa des 19. Jahrhunderts: Herausforderungen der Metadatenerschließung.” *DARIAH Working Papers* 46. [https://doi.org/10.47952/gro-publ-131](https://doi.org/10.47952/gro-publ-131).
+- Julian Schröter, Johannes Leitgeb, and Thomas Valta (2023): “Ein digitales Korpus der Novellen und Journalprosa des 19. Jahrhunderts: Herausforderungen der Metadatenerschließung.” *DARIAH Working Papers* 46. [https://doi.org/10.47952/gro-publ-131](https://doi.org/10.47952/gro-publ-131).
 - Albin Zehe, Julian Schröter, and Andreas Hotho (2023): “Towards a Computational Analysis of Suspense: Detecting Dangerous Situations.” arXiv. [https://doi.org/10.48550/arxiv.2305.06818](https://doi.org/10.48550/arxiv.2305.06818).
 - Julian Schröter and Keli Du (2022): “Validating Topic Modeling as a Method of Analyzing Sujet and Theme.” *Journal of Computational Literary Studies* 1.
 - Julian Schröter (2022): “Representing and Modeling Cultural Relevance in Corpora for Historical Analysis.” In *Digital Humanities 2022, Tokyo: Book of Abstracts*.
