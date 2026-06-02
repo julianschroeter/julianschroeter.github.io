@@ -21,7 +21,7 @@ order: 3
 
 ## Articles and abstracts
 
-- Schröter, Julian (2026:) "Love, Canon, and Gender: A Quantitative Study of 19th-Century German Literary Culture". In Beate Kellner and Susanne Reichlin (eds.): *Vormoderne Praktiken der Philologie.* De Gruyter, pp. 345–364. [https://doi.org/10.1515/9783111664934-015](https://doi.org/10.1515/9783111664934-015)
+- Julian Schröter  (2026:) "Love, Canon, and Gender: A Quantitative Study of 19th-Century German Literary Culture". In Beate Kellner and Susanne Reichlin (eds.): *Vormoderne Praktiken der Philologie.* De Gruyter, pp. 345–364. [https://doi.org/10.1515/9783111664934-015](https://doi.org/10.1515/9783111664934-015)
 - Axel Pichler and Julian Schröter (2026): “Die hypothetisch-deduktive Methode als Evaluationsinstrument für die Interpretationskompetenz von LLMs. Experimente mit GPT-4.1.” In Silke Schwandt et al. (eds.): *Book of Abstracts – DHd 2026. Nicht nur Text, nicht nur Daten*. Zenodo, 157–161. [https://doi.org/10.5281/zenodo.20441344](https://doi.org/10.5281/zenodo.20441344).
 - Julian Schröter and Martin Ruhl (2026): “Zwischen Journal und Buch: Entwurf eines Mixed-Method-Designs für Fassungsvergleiche am Beispiel von Erzähltexten des 19. Jahrhunderts.” In Elisa Ronzheimer and Sarah Nienhaus (eds.): *Editio – Internationales Jahrbuch für Editionswissenschaft*. Beiheft. De Gruyter, 71–93.
 - Fotis Jannidis, Rabea Kleymann, Julian Schröter, and Heike Zinsmeister (2025): “Do Large Language Models Understand Literature? Case Studies and Probing Experiments on German Poetry.” *Journal of Computational Literary Studies* 4(1). [https://doi.org/10.48694/jcls.4225](https://doi.org/10.48694/jcls.4225).
