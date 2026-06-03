@@ -23,5 +23,5 @@ I am currently in a research semester (Forschungssemester). During this period, 
 
 ## Upcoming conference presentations
 
-- June 18–19, 2026, Darmstadt, with Keli Du: “On the Relationship Between Textual and Contextual Factors of Canonization,” at “Mapping the Canon: Quantitative Approaches to Literary History.”
+- June 18–19, 2026, Darmstadt, with Keli Du: “On the Relationship Between Textual and Contextual Factors of Canonization,” at “Mapping the Canon: Quantitative Approaches to Literary History.” [https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp)
 - July 16–18, 2026, Göttingen, with Benjamin Gittel: “Praxis in den Computational Literary Studies: zwischen Tradition und Innovation,” at “Was geht – und warum? Normative Perspektiven auf literaturwissenschaftliche Praktiken.”
