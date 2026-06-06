@@ -8,7 +8,7 @@ order: 7
 - Podium **Künstliche Intelligenz und Kreativität. Transformationen im Kunst- und Kulturbetrieb.** Universität Augsburg, February 28, 2026.
 - **Hands-On-Workshop – Quantitative Textanalyse großer Korpora: Ein Grundlagen-Workshop zu Methoden der Stilometrie.** University of Hamburg, November  26, 2025.
 - Podium **Was die KI (nicht) liest – der literarische Kanon zwischen Algorithmus und Vielfalt.** »Aktionstage Kanon reloaded: Lesen zwischen Algorithmus und Vielfalt«, Berlin, September 8, 2025.
-- **»Perspektivische Modellierung als Verknüpfung hermeneutischer und quantitativer Perspektiven.** Public discussion with Ted Underwood at the paper circle of the working group Digital Humanities theory, Urbana-Champaign, October 14, 2022.
+- **Perspektivische Modellierung als Verknüpfung hermeneutischer und quantitativer Perspektiven.** Public discussion with Ted Underwood at the paper circle of the working group Digital Humanities theory, Urbana-Champaign, October 14, 2022.
 - **Literature dialogue about Christian Kracht‘s novel Die Toten**, Café Rudowitz (Würzburg), January 18, 2018.
 
 ## Talks
