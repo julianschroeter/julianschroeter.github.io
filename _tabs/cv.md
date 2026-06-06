@@ -17,7 +17,7 @@ order: 4
 # Work Experience
 
 - **Since April 2023:** Professor of Digital Literary Studies, LMU Munich
-- **August 2022–February 2023:**Walter Benjamin Fellow, School of Information Sciences, University of Illinois at Urbana-Champaign
+- **August 2022–February 2023:** Walter Benjamin Fellow, School of Information Sciences, University of Illinois at Urbana-Champaign
 - **March–July 2022:** Walter Benjamin Fellow, University of Antwerp
 - **April 2021–March 2023:** Postdoctoral researcher (*Akad. Rat a.Z.*), Digital Humanities/German Literature, University of Würzburg
 - **April–September 2020:** Deputy Professor of Digital Humanities, University of Trier
