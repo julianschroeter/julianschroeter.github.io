@@ -4,10 +4,16 @@ icon: fas fa-comments
 order: 7
 ---
 
-# Talks
+## Podium discussions and public outreach
+- Podium **Künstliche Intelligenz und Kreativität. Transformationen im Kunst- und Kulturbetrieb.** Universität Augsburg, February 28, 2026.
+- **Hands-On-Workshop – Quantitative Textanalyse großer Korpora: Ein Grundlagen-Workshop zu Methoden der Stilometrie.** University of Hamburg, November  26, 2025.
+- Podium **Was die KI (nicht) liest – der literarische Kanon zwischen Algorithmus und Vielfalt.** »Aktionstage Kanon reloaded: Lesen zwischen Algorithmus und Vielfalt«, Berlin, September 8, 2025.
+- **»Perspektivische Modellierung als Verknüpfung hermeneutischer und quantitativer Perspektiven.** Public discussion with Ted Underwood at the paper circle of the working group Digital Humanities theory, Urbana-Champaign, October 14, 2022.
+- **Literature dialogue about Christian Kracht‘s novel Die Toten**, Café Rudowitz (Würzburg), January 18, 2018.
 
-- Keli Du/Julian Schröter: **On the Relationship Between Textual and Contextual Factors of Canonization.** Symposium “Mapping the Canon: Quantitative Approaches to Literary History”, Darmstadt, June 18–19, 2026.
+# Talks
 - Benjamin Gittel/Julian Schröter: **Praxis in den Computational Literary Studies: zwischen Tradition und Innovation.** Conference “Was geht” – und warum? Normative Perspektiven auf literaturwissenschaftliche Praktiken, Göttingen, July 16–18, 2026.
+- Keli Du/Julian Schröter: **On the Relationship Between Textual and Contextual Factors of Canonization.** Symposium “Mapping the Canon: Quantitative Approaches to Literary History”, Darmstadt, June 18–19, 2026.
 - **Agent-Based Plot Modeling for Literary Genres: First Thoughts**, Conference “Plot and Genre in Computational Literary Studies”, Würzburg, May 21–22, 2026.
 - **Gattung und intensionaler Kontext.** Workshop Digitale Gattungshermeneutik II: Gattungen in Kontexten, Rostock, November 27, 2025.
 - **Social and Media Contexts as Driving Forces of Literary Genre History: Factor Analysis and New Machine Learning Approaches.** Workshop "Literary History and Computation: Theory and Practice", Technische Universität Darmstadt, October 28, 2025.
@@ -44,16 +50,8 @@ order: 7
 - **Reader Knowledge and Unreliable Narration.** Network Workshop »Grundbegriffe der Erzähltheorie«, Göttingen, September 22–24, 2011.
 
 ## Poster Presentations
-
 - **Modeling Prototypicality for Genre Concepts.** DH Conference 2023, Graz. In: *Digital Humanities 2023: Book of Abstracts*. Zenodo, 255–256. [https://doi.org/10.5281/zenodo.7961822](https://doi.org/10.5281/zenodo.7961822) [see publications](/_tabs/publications/). 
 - **Modeling Prototypicality of Genre Concepts with machine learning and the c@1-score.** »ISchool Research Showcase 2022«, School of Information Sciences, University of Illinois at Urbana Champaign, November 9, 2022. Poster (Zenodo): [https://doi.org/10.5281/zenodo.7945007](https://doi.org/10.5281/zenodo.7945007)
 - **Representing and Modeling Cultural Relevance in Corpora for Historical Analysis.** »DH Conference 2022, Tokyo.« In: *Digital Humanities 2022, Tokyo: Book of Abstracts*. Poster (Zenodo): [https://doi.org/10.5281/zenodo.7945288](https://doi.org/10.5281/zenodo.7945288)
 - **The history of the Novelle: Analysing Disordered Genre Semantics.** »Annual meeting of the SPP 2207 Computational Literary Studies«, University of Würzbur, March 16–18, 2021. Poster (Zenodo): [https://doi.org/10.5281/zenodo.7944930](https://doi.org/10.5281/zenodo.7944930)
 - **Supervised Learning and the Indeterminacy of Disordered Genres.** »Digital Humanities Conferene 2020, Ottawa.« In: *Digital Humanities 2020, Ottawa: Book of Abstracts*.
-
-## Podium discussions and public outreach
-- Podium **Künstliche Intelligenz und Kreativität. Transformationen im Kunst- und Kulturbetrieb.** Universität Augsburg, February 28, 2026.
-- **Hands-On-Workshop – Quantitative Textanalyse großer Korpora: Ein Grundlagen-Workshop zu Methoden der Stilometrie.** University of Hamburg, November  26, 2025.
-- Podium **Was die KI (nicht) liest – der literarische Kanon zwischen Algorithmus und Vielfalt.** »Aktionstage Kanon reloaded: Lesen zwischen Algorithmus und Vielfalt«, Berlin, September 8, 2025.
-- **»Perspektivische Modellierung als Verknüpfung hermeneutischer und quantitativer Perspektiven.** Public discussion with Ted Underwood at the paper circle of the working group Digital Humanities theory, Urbana-Champaign, October 14, 2022.
-- **Literature dialogue about Christian Kracht‘s novel Die Toten**, Café Rudowitz (Würzburg), January 18, 2018.
