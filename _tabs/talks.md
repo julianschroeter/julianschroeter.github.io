@@ -6,7 +6,7 @@ order: 7
 
 # Talks
 
-- Keli Du/Julian Schröter: **On the Relationship Between Textual and Contextual Factors of Canonization.** Conference “Mapping the Canon: Quantitative Approaches to Literary History”, Darmstadt, June 18–19, 2026.
+- Keli Du/Julian Schröter: **On the Relationship Between Textual and Contextual Factors of Canonization.** Symposium “Mapping the Canon: Quantitative Approaches to Literary History”, Darmstadt, June 18–19, 2026.
 - Benjamin Gittel/Julian Schröter: **Praxis in den Computational Literary Studies: zwischen Tradition und Innovation.** Conference “Was geht” – und warum? Normative Perspektiven auf literaturwissenschaftliche Praktiken, Göttingen, July 16–18, 2026.
 - **Agent-Based Plot Modeling for Literary Genres: First Thoughts**, Conference “Plot and Genre in Computational Literary Studies”, Würzburg, May 21–22, 2026.
 - **Gattung und intensionaler Kontext.** Workshop Digitale Gattungshermeneutik II: Gattungen in Kontexten, Rostock, November 27, 2025.
