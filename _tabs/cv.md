@@ -60,4 +60,6 @@ order: 4
 
 - Member of the working group *DHd Theorie* (since 2022) 
 - Member of the *DHd Association* (since 2020)
+- Member of: Z[entrum für Buchwissenschaft (ZfB), LMU](https://www.zfb.uni-muenchen.de/index.html)
+- Mwmber of: Zentrum für Gegenwartsliteratur München, LMU](https://www.sprachlit.lmu.de/zfgm/de/)
 
