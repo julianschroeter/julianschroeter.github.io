@@ -17,16 +17,16 @@ order: 7
 - Julian Schröter: **Agent-Based Plot Modeling for Literary Genres: First Thoughts**, Conference “Plot and Genre in Computational Literary Studies”, Würzburg, May 21–22, 2026.
 - Julian Schröter: **Gattung und intensionaler Kontext.** Workshop Digitale Gattungshermeneutik II: Gattungen in Kontexten, Rostock, November 27, 2025.
 - **Social and Media Contexts as Driving Forces of Literary Genre History: Factor Analysis and New Machine Learning Approaches.** Workshop "Literary History and Computation: Theory and Practice", Technische Universität Darmstadt, October 28, 2025.
-- Julian Schröter: **Eine quantitative und qualitative Geschichte der Novellen im 19. Jahrhundert.** Germanistentag 2025, Braunschweig, September 15, 2025 (Talk).
-- Fotis Jannidis/Rabea Kleymann/Julian Schröter/Heike Zinsmeister: **Do Large Language Models understand literature? Case studies and probing experiments on German poetry.** Conference of Computational Literary Studies (CCLS), Krakow, July 3-4, 2025 (Talk).
-- Julian Schröter: **Spannung im Krimiheftroman. Eine quantitative Studie.** Philologische Fakultät Universität Würzburg (= Habilitationskolloquium), May 15, 2025 (Talk).
-- Julian Schröter: **Large language models and the analysis of Suspense and Mystery in German dime novels.** Junges Kolleg, Bayerische Akademie der Wissenschaften, Workshop organized by Christoph Heilig, June 26, 2025 (Munich) (Talk).
+- Julian Schröter: **Eine quantitative und qualitative Geschichte der Novellen im 19. Jahrhundert.** Germanistentag 2025, Braunschweig, September 15, 2025.
+- Fotis Jannidis/Rabea Kleymann/Julian Schröter/Heike Zinsmeister: **Do Large Language Models understand literature? Case studies and probing experiments on German poetry.** Conference of Computational Literary Studies (CCLS), Krakow, July 3-4, 2025.
+- Julian Schröter: **Spannung im Krimiheftroman. Eine quantitative Studie.** Philologische Fakultät Universität Würzburg (= Habilitationskolloquium), May 15, 2025.
+- Julian Schröter: **Large language models and the analysis of Suspense and Mystery in German dime novels.** Junges Kolleg, Bayerische Akademie der Wissenschaften, Workshop organized by Christoph Heilig, June 26, 2025 (Munich).
 - Julian Schröter: **Computergestützte Spannungserkennung.** Workshop "Ecochronotopes in Transmedial Fictions from the Americas«, April 10, 2025, Universität Regensburg
 - Julian Schröter: **Zur Modellierung von Unsicherheit: Machine Learning und begriffliche Vagheit am Beispiel der Novellen im 19. Jahrhundert.** DHd Konferenz 2025, Bielefeld, March 6, 2025.
 - Julian Schröter: **Zur Analyse von Spannung aus quantitativer und qualitativer Perspektive**, Universität Hamburg, January 16, 2025
 - Julian Schröter: **Contextual perspectival modeling: The praxeological and political history of literary genres** Conference »Rewriting of Literary History with Algorithms«, Chicago, Illinois, November 15, 2024.
 - Rabea Kleymann/Julian Schröter: **Generative Sprachmodelle in interpretativen Konstellationen: Annäherungen über den Bedeutungsbegriff.** »Konferenz (Generative) KI für Kultur- und Textdaten«, Weimar, November 4, 2024.
-- Julian Schröter: **Gattung – Medium – Politik: Eine quantitative Geschichte der Novellen des 19. Jahrhunderts.** Ringvorlesung Digital Humanities Talk, October 21, 2024 Rostock. Presentation slides (Zenodo): [https://doi.org/10.5281/zenodo.14041289](https://doi.org/10.5281/zenodo.14041289)
+- Julian Schröter: **Gattung – Medium – Politik: Eine quantitative Geschichte der Novellen des 19. Jahrhunderts.** Ringvorlesung Digital Humanities, October 21, 2024 Rostock. Presentation slides (Zenodo): [https://doi.org/10.5281/zenodo.14041289](https://doi.org/10.5281/zenodo.14041289)
 - Julian Schröter: **Modellierung des Zusammenspiels von politischen und ästhetischen Funktionen von Gattungen.** Workshop »Digitale Gattungshermeneutik«, München, September 12, 2024.
 - Julian Schröter: **Eine Quantitative Geschichte der Novellen des 19. Jahrhunderts.** Würzburg, February 6, 2024.
 - Julian Schröter: **Format- und genrespezifische Empfehlungspraktiken: Quantitative Auswertung von Fanforen und Rezensionsplattformen.** Workshop: »Best of. Praktiken des Empfehlens in Medienkulturen der Gegenwart«, organized by Elena Beregow and Erika Thomalla, LMU Munich, May 17, 2024.
