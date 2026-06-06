@@ -11,7 +11,7 @@ order: 7
 - **»Perspektivische Modellierung als Verknüpfung hermeneutischer und quantitativer Perspektiven.** Public discussion with Ted Underwood at the paper circle of the working group Digital Humanities theory, Urbana-Champaign, October 14, 2022.
 - **Literature dialogue about Christian Kracht‘s novel Die Toten**, Café Rudowitz (Würzburg), January 18, 2018.
 
-# Talks
+## Talks
 - Benjamin Gittel/Julian Schröter: **Praxis in den Computational Literary Studies: zwischen Tradition und Innovation.** Conference “Was geht” – und warum? Normative Perspektiven auf literaturwissenschaftliche Praktiken, Göttingen, July 16–18, 2026.
 - Keli Du/Julian Schröter: **On the Relationship Between Textual and Contextual Factors of Canonization.** Symposium “Mapping the Canon: Quantitative Approaches to Literary History”, Darmstadt, June 18–19, 2026.
 - Julian Schröter: **Agent-Based Plot Modeling for Literary Genres: First Thoughts**, Conference “Plot and Genre in Computational Literary Studies”, Würzburg, May 21–22, 2026.
