@@ -45,4 +45,4 @@ Kenncode: 556008
 
 **29.6.** KI im Selfpublishing (Tom Schmidt, Nomad Publishing)
 
-**6.7.** Textanalyse mit KI (Rabea Kleymann, TU Chemnitz)
+**6.7.** Theory in the Loop? Theoretisieren mit und gegen KI (Rabea Kleymann, TU Chemnitz)
