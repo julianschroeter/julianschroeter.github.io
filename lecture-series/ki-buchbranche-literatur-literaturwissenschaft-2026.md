@@ -30,7 +30,8 @@ Kenncode: 556008
 **11.5.** AI as Cultural Technology (Ted Underwood, University of Illinois Urbana-Champaign)
 
 **Abstract**: Unease about generative AI emerges, in part, from recognition that the technology hasn’t taken the form that the word “intelligence” once led us to expect. Language models didn't begin by imitating human individuals, but by imitating genres, rhetorical templates, and other collective patterns of behavior. They are in other words, to borrow Alison Gopnik’s term, a “cultural technology.” This talk explores the implications that flow from viewing generative AI, not as a failed attempt to create autonomous robots, but as a new mode of cultural transmission. I’ll focus especially on the risks and opportunities for academic disciplines that study culture, but also cast an eye on broader concerns implied by this view of AI. **About the speaker**: [https://www.cas.lmu.de/en/people-at-cas/details/ted-underwood-6ee3cbc5.html](https://www.cas.lmu.de/en/people-at-cas/details/ted-underwood-6ee3cbc5.html)
-<img src="/pictures/UnderwoodHeadshotHolly.jpg" width="150">
+
+<img src="/pictures/UnderwoodHeadshotHolly.jpg" width="250">
 
 
 **18.5.** Surface Reading LLMs: Synthetische Texte und ihre Stile (Hannes Bajohr, University of California, Berkeley, CA) [Online]
@@ -43,10 +44,12 @@ Kenncode: 556008
 
 **Abstract**: What happens when machines learn to tell stories—and engineers decide what makes them good? In this talk, I will examine how recent AI research defines and measures narrative success. Through the development of evaluation “benchmarks,” these projects encode assumptions about creativity and meaning. Drawing on literary and humanistic theories of narrative, I explore how we might rethink AI storytelling by bringing literary critical perspectives into the process of design and evaluation. **About the speaker**: Andrew Piper is Professor of Languages, Literatures, and Cultures at McGill University, where he directs .txtlab, a leading laboratory for cultural analytics, and the MA in Digital Humanities. His research uses AI to better understand the nature of human storytelling, combining computational and literary methods to explore how narratives work. His most recent book, Why you should read more fiction: What Data and AI can tell us about the value of storytelling will be out this Fall with Johns Hopkins UP.
 
-<img src="/pictures/Piper_Author_2022_Pencil_BW.jpeg" width="150">
+<img src="/pictures/Piper_Author_2022_Pencil_BW.jpeg" width="250">
 
 **22.6.** KI in der Übersetzung (Cornelius Reiber, Übersetzer)
 
 **29.6.** KI im Selfpublishing (Tom Schmidt, Nomad Publishing)
 
 **6.7.** Theory in the Loop? Theoretisieren mit und gegen KI (Rabea Kleymann, TU Chemnitz)
+
+<img src="/pictures/Poster_Ringvorlesung_KI-Buchbranche-Literatur-Literaturwissenschaft.png" width="700">
