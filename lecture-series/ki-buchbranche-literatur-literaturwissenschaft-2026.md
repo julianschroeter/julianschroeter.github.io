@@ -30,6 +30,7 @@ Kenncode: 556008
 **11.5.** AI as Cultural Technology (Ted Underwood, University of Illinois Urbana-Champaign)
 
 **Abstract**: Unease about generative AI emerges, in part, from recognition that the technology hasn’t taken the form that the word “intelligence” once led us to expect. Language models didn't begin by imitating human individuals, but by imitating genres, rhetorical templates, and other collective patterns of behavior. They are in other words, to borrow Alison Gopnik’s term, a “cultural technology.” This talk explores the implications that flow from viewing generative AI, not as a failed attempt to create autonomous robots, but as a new mode of cultural transmission. I’ll focus especially on the risks and opportunities for academic disciplines that study culture, but also cast an eye on broader concerns implied by this view of AI. **About the speaker**: [https://www.cas.lmu.de/en/people-at-cas/details/ted-underwood-6ee3cbc5.html](https://www.cas.lmu.de/en/people-at-cas/details/ted-underwood-6ee3cbc5.html)
+<img src="/pictures/UnderwoodHeadshotHolly.jpg" width="700">
 
 
 **18.5.** Surface Reading LLMs: Synthetische Texte und ihre Stile (Hannes Bajohr, University of California, Berkeley, CA) [Online]
