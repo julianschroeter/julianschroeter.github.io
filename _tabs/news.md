@@ -6,6 +6,7 @@ order: 2
 ---
 
 # News
+- The DFG research unit (Forschungsgruppe) "Medium – Ware – Werk: Der deutsche Heftroman" (spokesperson: Christine Haug) is funded and will start soon, including the project (TP 6): "„Action – Analysis – Mystery: Dimensionen der Rätselstruktur im Krimiheftroman“ that I will lead [LMU-Newsroom](https://www.lmu.de/de/newsroom/newsuebersicht/news/grosser-erfolg-eines-kleinen-formats-die-vielschichtigkeit-und-relevanz-von-heftromanen-bafc6a1e.html).
 
 - Interview, dpa (June 2026): "Debatte in der LiteraturszeneLiteratur und KI - schreibt die Maschine jetzt schon besser?" (erschienen u.a. in [SZ](https://www.sueddeutsche.de/bayern/debatte-in-der-literaturszene-literatur-und-ki-schreibt-die-maschine-jetzt-schon-besser-dpa.urn-newsml-dpa-com-20090101-260605-930-176280), [FAZ](https://www.faz.net/agenturmeldungen/dpa/literatur-und-ki-schreibt-die-maschine-jetzt-schon-besser-200900738.html), [ZEIT](https://www.zeit.de/news/2026-06/05/literatur-und-ki-schreibt-die-maschine-jetzt-schon-besser)). 
 
