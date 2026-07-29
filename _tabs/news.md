@@ -6,7 +6,7 @@ order: 2
 ---
 
 # News
-- The DFG research unit (Forschungsgruppe) "Medium – Ware – Werk: Der deutsche Heftroman" (spokesperson: Christine Haug) is funded and will start soon, including the project (TP 6): "„Action – Analysis – Mystery: Dimensionen der Rätselstruktur im Krimiheftroman“ that I will lead [LMU-Newsroom](https://www.lmu.de/de/newsroom/newsuebersicht/news/grosser-erfolg-eines-kleinen-formats-die-vielschichtigkeit-und-relevanz-von-heftromanen-bafc6a1e.html).
+- The DFG research unit (Forschungsgruppe/FOR) "Medium – Ware – Werk: Der deutsche Heftroman von 1913 bis zur Gegenwart" (spokesperson: Christine Haug) is funded and will start soon. I am very much looking forward to lead the project (TP 6): "„Action – Analysis – Mystery: Dimensionen der Rätselstruktur im Krimiheftroman“ that I will lead [LMU-Newsroom](https://www.lmu.de/de/newsroom/newsuebersicht/news/grosser-erfolg-eines-kleinen-formats-die-vielschichtigkeit-und-relevanz-von-heftromanen-bafc6a1e.html).
 
 - Interview, dpa (June 2026): "Debatte in der LiteraturszeneLiteratur und KI - schreibt die Maschine jetzt schon besser?" (erschienen u.a. in [SZ](https://www.sueddeutsche.de/bayern/debatte-in-der-literaturszene-literatur-und-ki-schreibt-die-maschine-jetzt-schon-besser-dpa.urn-newsml-dpa-com-20090101-260605-930-176280), [FAZ](https://www.faz.net/agenturmeldungen/dpa/literatur-und-ki-schreibt-die-maschine-jetzt-schon-besser-200900738.html), [ZEIT](https://www.zeit.de/news/2026-06/05/literatur-und-ki-schreibt-die-maschine-jetzt-schon-besser)). 
 
@@ -24,7 +24,7 @@ I am currently in a research semester (Forschungssemester). During this period, 
   - Andrew Piper, June 15, 2026, 6–8 p.m., online: “When Engineers Tell Tales: Reading AI Story Generation Evaluation through the Humanities.”
   - Rabea Kleymann, July 6, 2026: “Text Analysis with AI” (exact topic to be announced).
 
-## Upcoming conference presentations
+## Recent and Upcoming conference presentations
 
 - June 18–19, 2026, Darmstadt, with Keli Du: “On the Relationship Between Textual and Contextual Factors of Canonization,” at “Mapping the Canon: Quantitative Approaches to Literary History.” [https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp)
 - July 16–18, 2026, Göttingen, with Benjamin Gittel: “Praxis in den Computational Literary Studies: zwischen Tradition und Innovation,” at “Was geht – und warum? Normative Perspektiven auf literaturwissenschaftliche Praktiken.”
