@@ -32,6 +32,7 @@ order: 4
 
 # Service and Leadership
 
+- Member of the Program Committee of the 7th Computational Humanities Research (CHR) Conference 2027
 - Lead: Transversal Perspective „Digital Humanities: Components and Methods“ in the Cluster of Excellence 3061-1 „Cross-Cultural Philology“
 - PI in the Cluster of Excellenc 3061-01 „Cross-Cultural Philology“; project: „Computational Analysis of Patterns of Canon Formation“ PostDoc-Mitarbeiter: Keli Du; stud. Hilfskräfte: Anda Dumitrescu, Sophie Gerger
 - Member of the Research Focus „Scales/Maßstäbe“ in the Center for Advanced Studies CAS. (Spokespersons: Carlos Spoerhase and Sina Steglich)
