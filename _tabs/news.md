@@ -4,8 +4,12 @@ title: News
 icon: fas fa-bullhorn
 order: 2
 ---
+##  Job Vacancy 
 
-# News
+In der DFG-Forschungsgruppe "Medium – Ware – Werk: Der deutsche Heftroman" (s.u.) ist im Teilprojekt 6 zum Krimiheftroman eine Stelle für einen wissenschaftlichen Mitarbeiter / eine wissenschaftliche Mitarbeiterin (m/w/d) zur Promotion für 4 Jahre ausgeschrieben. Bewerbungsfrist: 7.10.2026
+[Weitere Infos](https://job-portal.lmu.de/jobposting/2598df009868053afee5eeb36da98b5d6756cb780?ref=homepage)
+
+## News
 - The DFG research unit (Forschungsgruppe/FOR) "Medium – Ware – Werk: Der deutsche Heftroman von 1913 bis zur Gegenwart" (spokesperson: Christine Haug) is funded and will start soon. I am very much looking forward to lead the project (TP 6): "„Action – Analysis – Mystery: Dimensionen der Rätselstruktur im Krimiheftroman“ that I will lead [LMU-Newsroom](https://www.lmu.de/de/newsroom/newsuebersicht/news/grosser-erfolg-eines-kleinen-formats-die-vielschichtigkeit-und-relevanz-von-heftromanen-bafc6a1e.html).
 
 - The  elite degree programme (Elitestudiengang) "Future writing Future" (Universität Augsburg/LMU München, Spokespersons: Stephanie Waldow and Frieder von Ammon) has recently been granted and will start in 2028.
@@ -26,7 +30,7 @@ I am currently in a research semester (Forschungssemester). During this period, 
   - Andrew Piper, June 15, 2026, 6–8 p.m., online: “When Engineers Tell Tales: Reading AI Story Generation Evaluation through the Humanities.”
   - Rabea Kleymann, July 6, 2026: “Text Analysis with AI” (exact topic to be announced).
 
-## Recent and Upcoming talks and presentations
+## Recent and upcoming talks and presentations
 
 - June 18–19, 2026, Darmstadt, with Keli Du: “On the Relationship Between Textual and Contextual Factors of Canonization,” at “Mapping the Canon: Quantitative Approaches to Literary History.” [https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp)
 - July 16–18, 2026, Göttingen, with Benjamin Gittel: “Praxis in den Computational Literary Studies: zwischen Tradition und Innovation,” at “Was geht – und warum? Normative Perspektiven auf literaturwissenschaftliche Praktiken.”
