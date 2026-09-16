@@ -8,4 +8,4 @@ order: 3
 - [Cliffhanger (Vogel-Stiftung)](/projects/project-2/)
 - [Unstructered Genres (DFG WBS)](/projects/project-3/)
 - [Novella Corpus (Forschungsfonds Würzburg)](/projects/project-4/)
-- [„Action – Analysis – Mystery: Dimensionen der Rätselstruktur im Krimiheftroman“(DFG, FOR: "Der deutsche Heftroman")))](/projects/project-5/)
+- [„Action – Analysis – Mystery: Dimensionen der Rätselstruktur im Krimiheftroman“(DFG FOR: "Der deutsche Heftroman")](/projects/project-5/)
