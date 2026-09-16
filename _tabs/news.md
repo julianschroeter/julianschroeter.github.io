@@ -6,7 +6,8 @@ order: 2
 ---
 ##  Job Vacancy 
 
-In der DFG-Forschungsgruppe "Medium – Ware – Werk: Der deutsche Heftroman" (s.u.) ist im Teilprojekt 6 zum Krimiheftroman eine Stelle für einen wissenschaftlichen Mitarbeiter / eine wissenschaftliche Mitarbeiterin (m/w/d) zur Promotion für 4 Jahre ausgeschrieben. Bewerbungsfrist: 7.10.2026
+In der DFG-Forschungsgruppe "Medium – Ware – Werk: Der deutsche Heftroman" (s.u.) ist im Teilprojekt 6 zum Krimiheftroman eine Stelle für einen wissenschaftlichen Mitarbeiter / eine wissenschaftliche Mitarbeiterin (m/w/d) zur Promotion für 4 Jahre ausgeschrieben. Bewerbungsfrist: 07.10.2026
+
 [Link zur Stellenausschreibung](https://job-portal.lmu.de/jobposting/2598df009868053afee5eeb36da98b5d6756cb780?ref=homepage)
 
 ## News
