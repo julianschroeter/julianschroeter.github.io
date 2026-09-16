@@ -4,7 +4,7 @@ title: News
 icon: fas fa-bullhorn
 order: 2
 ---
-##  Job Vacancy 
+##  Job Vacancy / Stellenausschreibung
 
 In der DFG-Forschungsgruppe "Medium – Ware – Werk: Der deutsche Heftroman" (s.u.) ist im Teilprojekt 6 zum Krimiheftroman eine Stelle für einen wissenschaftlichen Mitarbeiter / eine wissenschaftliche Mitarbeiterin (m/w/d) zur Promotion für 4 Jahre ausgeschrieben. Bewerbungsfrist: 07.10.2026
 
