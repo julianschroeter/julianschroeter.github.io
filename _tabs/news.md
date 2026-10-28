@@ -7,6 +7,7 @@ order: 2
 
 ## News
 
+- SR Kultur: "KI in der Literatur – regulieren oder verbieten? (Interview), ausgestrahlt am 27.10.2026, 13:11 Uhr, [Link zur Sendung](https://www.sr.de/sr/srkultur/home/podcasts_und_buecher/ki_literatur_100.html).
 - SWR Kultur: Forum "Roman ohne Autor – Tötet KI die Literatur?" Ein Gespräch mit Hannes Bajohr, Claudia Hamm und Julian Schröter, moderiert von Gregor Papsch, augestrahlt am 17.10.2026, 17:05 Uhr [Link zur Sendung](https://www.swr.de/kultur/gesellschaft/roman-ohne-autor-toetet-ki-die-literatur-forum-2026-10-07-100.html), [Link zum Podcast](https://www.ardsounds.de/episode/urn:ard:episode:a3a151f60fb1ad7d/).
 - Profil/Interview LMU Newsroom: "Buchmarkt: Darf KI Literatur verfassen?" [Link](https://www.lmu.de/de/newsroom/newsuebersicht/news/buchmarkt-darf-ki-literatur-verfassen-fedcaf22.html)
 - The DFG research unit (Forschungsgruppe/FOR) "Medium – Ware – Werk: Der deutsche Heftroman von 1913 bis zur Gegenwart" (spokesperson: Christine Haug) is funded and will start soon. I am very much looking forward to lead the project (TP 6): „Action – Analysis – Mystery: Dimensionen der Rätselstruktur im Krimiheftroman“ that I will lead [LMU-Newsroom](https://www.lmu.de/de/newsroom/newsuebersicht/news/grosser-erfolg-eines-kleinen-formats-die-vielschichtigkeit-und-relevanz-von-heftromanen-bafc6a1e.html).
